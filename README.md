@@ -1,6 +1,6 @@
 # Spark Databricks ML
 
-This a simple databricks ML application and is available on . First there are some necessary components that
+This a simple databricks ML application and is available on https://github.com/MrRobot703/m08_sparkml_python_azure. First there are some necessary components that
 need to be installed and provisioned:
 
 * Azure account
